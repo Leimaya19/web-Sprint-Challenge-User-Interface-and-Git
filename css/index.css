@@ -144,3 +144,85 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+a{
+    text-decoration: none;
+    color: black;
+    margin-top: 20px;
+}
+
+.nav-bar{
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.image{
+    margin-bottom: 15px;
+}
+
+.about{
+    border-bottom: 1px dashed black;
+    margin: 2%;
+}
+
+.top-content-about{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 2%;
+    margin-bottom: 8%;
+}
+
+.next-content-about{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 2%;
+   
+}
+
+
+
+.end-section{
+    margin: 5%;
+}
+
+#one{
+    background-color: teal;
+}
+
+#two{
+    background-color:gold;
+}
+
+#three{
+    background-color: cadetblue;
+}
+
+#four{
+    background-color: coral;
+}
+
+#five{
+    background-color: crimson;
+}
+
+#six{
+    background-color: forestgreen;
+}
+
+#seven{
+    background-color: darkorchid;
+}
+
+#eight{
+    background-color: hotpink;
+}
+
+#nine{
+    background-color: indigo;
+}
+
+#ten{
+    background-color: dodgerblue;
+}
